@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mangodb": "^1.0.0",
+    "mongoose": "^8.3.4",
+    "mongosh": "^2.2.5"
+  }
+}
